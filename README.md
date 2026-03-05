@@ -14,4 +14,4 @@ The dataset is a folder of raw CSV files (transactions/sales, returns, products,
 
 How to open
 1. Install **Power BI Desktop**
-2. Open the PBIX file you want:
+2. Open the PBIX file you want
